@@ -17,7 +17,7 @@ For more information on Anthos Config Management, please reference the
 
 ## Examples
 
-### [Foo-Corp](foo-corp/)
+### [Foo-Corp](ve-corp/)
 
 A single cluster example showing several features of Anthos Config Management
 working together
